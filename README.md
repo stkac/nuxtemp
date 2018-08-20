@@ -4,9 +4,6 @@ A Vue.js project
 
 This project was generated with [`wemake-vue-template`](https://github.com/wemake-services/wemake-vue-template).
 
-[![build status](https://gitlab.com/Anibal Aguila <aa@stk.ac>/nuxtemp/badges/master/build.svg)](https://gitlab.com/Anibal Aguila <aa@stk.ac>/nuxtemp/commits/master) [![coverage report](https://gitlab.com/Anibal Aguila <aa@stk.ac>/nuxtemp/badges/master/coverage.svg)](https://gitlab.com/Anibal Aguila <aa@stk.ac>/nuxtemp/commits/master)
-
-
 ## Prerequisites
 
 You will need:
